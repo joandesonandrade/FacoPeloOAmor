@@ -1,0 +1,7 @@
+<xml>{breakline}
+<nmTipo>{tipo}</nmTipo>{breakline}
+<chassi>{chassi}</chassi>{breakline}
+<cis>{cis}</cis>{breakline}
+<anexo>{documento}</anexo>{breakline}
+<paginas>{paginas}</paginas>{breakline}
+</xml>
