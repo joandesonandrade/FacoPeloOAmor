@@ -1,0 +1,2 @@
+# FacoPeloOAmor
+só ler
