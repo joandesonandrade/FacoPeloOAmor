@@ -1,2 +1,1 @@
-# FacoPeloOAmor
-só ler
+# Tratamento, normalização e reconhecimento.
